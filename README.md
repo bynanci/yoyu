@@ -18,7 +18,7 @@ Yoyu is **not another calendar** and **not another task manager**. It starts fro
 - **Direction over density** — show what matters next without filling every gap.
 - **Room over rigidity** — uncertainty, flexibility, rest, and undecided states are valid.
 - **Shared responsibility over supervision** — collaboration should make ownership clear without turning a partner or family member into a project manager.
-- **Semantic time scales** — today, this month, this year, and long-term horizons should change the meaning and level of detail, not merely zoom the same calendar grid.
+- **Semantic time scales** — today, this month, this year, and long-term horizons change the meaning and level of detail, not merely the zoom level of the same calendar grid.
 - **Explicit transitions** — help users understand how to move from the current state to the next one.
 - **Trustworthy state** — distinguish proposed, accepted, pending, stale, offline, and confirmed information.
 - **Calm by design** — minimal hierarchy, low visual noise, accessible interaction, and no gamified pressure.
@@ -29,7 +29,7 @@ Yoyu is **not another calendar** and **not another task manager**. It starts fro
 ```text
 Life Block
   ├─ Time Range
-  ├─ Spatial / Life Context
+  ├─ Place / Life Context
   ├─ Direction
   ├─ Anchors
   ├─ Transitions
@@ -47,6 +47,17 @@ The model is still under research and may change before implementation.
 4. **Shared Responsibility** — propose, accept, decline, or hand off responsibility explicitly.
 5. **Change Preview** — understand what changes, what stays, and who needs to confirm.
 6. **Trust & Settings** — sharing, notifications, sync state, export, and future device integrations.
+
+## Documentation
+
+- [Product](docs/PRODUCT.md)
+- [UX Principles](docs/UX-PRINCIPLES.md)
+- [Cognitive Model](docs/COGNITIVE-MODEL.md)
+- [Domain Model](docs/DOMAIN-MODEL.md)
+- [API Contract](docs/API-CONTRACT.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Design](design/README.md)
+- [Roadmap](tasks/ROADMAP.md)
 
 ## Non-goals
 
